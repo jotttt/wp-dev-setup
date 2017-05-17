@@ -1,1 +1,1 @@
-# wp-dev-setup
+# Wordpress development setup
